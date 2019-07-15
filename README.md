@@ -1,0 +1,2 @@
+# bmg
+Business Model Generator
